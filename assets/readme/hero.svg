@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Prodbyhunter music profile</title>
+  <desc id="desc">A dark artist profile composition with a blue-purple waveform and connected listening destinations.</desc>
+  <defs>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#214480"/>
+      <stop offset="0.52" stop-color="#6b22a3"/>
+      <stop offset="1" stop-color="#d283eb"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="75%" cy="50%" r="55%">
+      <stop offset="0" stop-color="#6b22a3" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#080808" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="380" rx="28" fill="#080808"/>
+  <rect width="1200" height="380" rx="28" fill="url(#glow)"/>
+  <g transform="translate(64 58)">
+    <text x="0" y="0" fill="#b77dc9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" font-weight="700" letter-spacing="2">COMMISSIONED ARTIST PROFILE</text>
+    <text x="0" y="90" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="64" font-weight="760">prodbyhunter</text>
+    <text x="0" y="146" fill="#b9b9b9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24">Music, links, and identity in one page.</text>
+    <text x="0" y="222" fill="#d283eb" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20">“i make beatz 2 ^_^”</text>
+    <g transform="translate(0 254)" fill="#f7f7f7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">
+      <text x="0">SPOTIFY</text>
+      <text x="104" fill="#575555">·</text>
+      <text x="128">SOUNDCLOUD</text>
+      <text x="266" fill="#575555">·</text>
+      <text x="290">YOUTUBE</text>
+      <text x="390" fill="#575555">·</text>
+      <text x="414">APPLE MUSIC</text>
+    </g>
+  </g>
+  <g transform="translate(650 52)">
+    <circle cx="238" cy="138" r="118" fill="#0f0f0f" stroke="#6b22a3" stroke-width="2"/>
+    <circle cx="238" cy="138" r="84" fill="none" stroke="#2f2d30" stroke-width="22"/>
+    <circle cx="238" cy="138" r="58" fill="#140f14" stroke="#d283eb" stroke-width="2"/>
+    <circle cx="238" cy="138" r="12" fill="#ffffff"/>
+    <path d="M0 138h24l12-56 22 122 24-178 24 206 22-154 22 110 22-72 24 34 22-20 22 10 22-56 22 110 24-160 22 196 22-128 24 70 22-34h44" fill="none" stroke="url(#wave)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(88 292)">
+      <rect width="300" height="42" rx="21" fill="#161616" stroke="#353536"/>
+      <circle cx="24" cy="21" r="7" fill="#d283eb"/>
+      <text x="46" y="27" fill="#ffffff" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">IG mods · 1:50</text>
+      <path d="M264 14l12 7-12 7z" fill="#ffffff"/>
+    </g>
+  </g>
+</svg>
